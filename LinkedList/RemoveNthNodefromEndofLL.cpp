@@ -20,15 +20,22 @@ public:
         }
 ----------------------------------
         ListNode* temp = head;
-        n = count-n-1;
-        count = 0;
-        while(temp){
-            if(count == n){
-                temp->next = temp->next->next;
-            }
+         while(count != 0){
             temp = temp->next;
-            count++;
+            count--;
         }
+        ListNode* todelete = temp->next;
+        temp->next = temp->next->next;
+        delete todelete;
+//         n = count-n-1;
+//         count = 0;
+//         while(temp){
+//             if(count == n){
+//                 temp->next = temp->next->next;
+//             }
+//             temp = temp->next;
+//             count++;
+//         }
         return head;
     }
 };
