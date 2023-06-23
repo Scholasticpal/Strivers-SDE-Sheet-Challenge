@@ -39,7 +39,7 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Reverse Linked List
 - Middle of the Linked List
 - Merge two Sorted Linked Lists
-- Remove the Nth Node from End of the Linked List
+- Remove the Nth Node from the End of the Linked List
 
 ### Day 8
 - Linked List Cycle
@@ -58,7 +58,6 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 ### Day 10
 - Rotate the Linked List
 - Clone a Linked List with random and next pointer
-- 3 Sum
 - Trapping Rainwater
 
 ## Day 11
@@ -69,4 +68,3 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Implementing Queue using Stack
 - Check for balanced Parentheses
 - Next Greater Element
-- Sort a Stack
