@@ -60,3 +60,13 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Clone a Linked List with random and next pointer
 - 3 Sum
 - Trapping Rainwater
+
+## Day 11
+- MinStack
+- Stack using Arrays
+- Stack using Queues
+- Implementing Stack using Queue
+- Implementing Queue using Stack
+- Check for balanced Parentheses
+- Next Greater Element
+- Sort a Stack
