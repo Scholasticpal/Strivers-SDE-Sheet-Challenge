@@ -68,3 +68,13 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Implementing Queue using Stack
 - Check for balanced Parentheses
 - Next Greater Element
+
+## Day 12
+- Factorial Trailing Zeroes
+- Find in Mountain Array
+- Longest Palindromic Substring
+- Shortest Palindrome
+- Minimum Deletions to Make an Array Divisible
+- Find All Numbers Disappeared in an Array
+- Three Divisors
+- Four Divisors
