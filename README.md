@@ -75,6 +75,14 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Longest Palindromic Substring
 - Shortest Palindrome
 - Minimum Deletions to Make an Array Divisible
-- Find All Numbers Disappeared in an Array
+- Find All Numbers that Disappeared in an Array
 - Three Divisors
 - Four Divisors
+
+## Day 13
+- Infix to postfix
+- Evaluate reverse polish notation
+- Minimum coins to make all denominations
+- Bitwise Count the no. of bits
+- Bitwise Integer isPalindrome
+- Bitwise Check no. is Power of 4 in O(1)
