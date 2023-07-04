@@ -89,12 +89,13 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 ## Day 14
 - Sort a Stack
 - Next Smaller Element
-
-##Day 15
+  
+## Day 15
 - LRU Cache
 - LFU Cache
 - MinStack
 - Single Number II
 - Decode XORed Array
 - XOR Operation in Array
-- 
+- Number of Steps to Reduce a Number to Zero
+- Count the Number of Consistent Strings
