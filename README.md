@@ -61,7 +61,6 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Trapping Rainwater
 
 ## Day 11
-- MinStack
 - Stack using Arrays
 - Stack using Queues
 - Implementing Stack using Queue
@@ -86,3 +85,16 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - Bitwise Count the no. of bits
 - Bitwise Integer isPalindrome
 - Bitwise Check no. is Power of 4 in O(1)
+
+## Day 14
+- Sort a Stack
+- Next Smaller Element
+
+##Day 15
+- LRU Cache
+- LFU Cache
+- MinStack
+- Single Number II
+- Decode XORed Array
+- XOR Operation in Array
+- 
