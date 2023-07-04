@@ -1,21 +1,18 @@
 //optimized
-vector<int> Solution::prevSmaller(vector<int> &A){
-    int n = A.size();
+#include<bits/stdc++.h>
+vector<int> nextSmallerElement(vector<int> &arr, int n)
+{
     vector<int> ans(n, -1);
     stack<int> st;
-    st.push(A[0]);
-    for(int i = 1; i<n; i++){
-        while(!st.empty() && A[i]<=st.top()){
+    for(int i = 0; i< n ; i++){
+        while(!st.empty() && arr[st.top()]>arr[i]){
+            ans[st.top()] = arr[i];
             st.pop();
         }
-        if(!st.empty()){
-            ans[i] = st.top();
-        }
-        st.push(A[i]);
+        st.push(i);
     }
     return ans;
 }
-
 
 //brute force approach
 vector<int> Solution::prevSmaller(vector<int> &A){
