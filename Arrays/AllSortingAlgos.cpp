@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Quick Sort TC: O(nlogn)[average], O(n^2)[worst] | SC: O(1)
+// Quick Sort TC: O(nlogn)[average], O(n^2)[worst] | SC: O(logn)
 
 /*int findPartition(vector<int> &arr, int low, int high){
         int i= low, j = high, pivot = arr[low];
