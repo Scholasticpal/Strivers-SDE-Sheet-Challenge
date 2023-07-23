@@ -2,6 +2,36 @@
 
 class Solution {
 public:
+    string addReverse(string temp, string ans){
+        if(temp == ""){
+            return ans;
+        }else{
+            if(ans == "")
+            {return temp;}
+        }
+        ans = temp + " "+ ans;
+        return ans;
+    }
+    string reverseWords(string s) {
+        int n = s.size();
+        string temp = "";
+        string ans = "";
+        for(int i = 0; i< n ; i++){
+            if(s[i] ==' '){
+                ans = addReverse(temp, ans);
+                temp="";
+            }
+            else{
+                temp+= s[i];
+            }
+        }
+        return addReverse(temp, ans);
+    }
+};
+
+//-------------------------------------------------------------------
+class Solution {
+public:
     string reverseWords(string s) {
         int n = s.size();
         int i = n-1;
