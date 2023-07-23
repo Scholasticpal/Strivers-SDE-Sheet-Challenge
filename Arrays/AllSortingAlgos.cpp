@@ -28,7 +28,7 @@ using namespace std;
     }*/
 
 // ------------------------------------------------------------------------
-// MergeSort TC: O(nlogn) | SC: O(1)
+// MergeSort TC: O(nlogn) | SC: O(n)
 
 /*void merge(vector<int> &arr, int low, int mid, int high){
     if(low>=high){return;}
