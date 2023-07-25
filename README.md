@@ -99,3 +99,32 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - XOR Operation in Array
 - Number of Steps to Reduce a Number to Zero
 - Count the Number of Consistent Strings
+
+## Day 16
+- Minimum Bit Flips to Convert a Number
+- Quick, Merge, Selection, Bubble, Insertion Sorting Algorithms
+  
+## Day 17
+- Sudoku Solver
+- M-Coloring Problem
+- Permutations
+- NQueens
+
+## Day 18
+- Rat in a Maze
+- Palindrome Partitioning
+- Kth Permutation Sequence
+
+## Day 19
+- Roman to Integers
+- Reverse Words in a String
+
+## Day 20
+- Fibonacci Numbers - DP
+
+## Day 21
+- Reverse Words in a String
+- String to Integer (atoi)
+- Longest Common Prefix
+
+
