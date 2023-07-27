@@ -127,4 +127,11 @@ Attempt Questions from Striver SDE Sheet in the next 35-40 days. #StriversSheetC
 - String to Integer (atoi)
 - Longest Common Prefix
 
-
+## Day 22
+- String Hashing
+- Rabin Karp Algorithms
+- Repeating String Match
+- Z-Function_Sliding_Window
+- Valid Anagram
+- Compare Version Numbers
+- Compare Version Number
